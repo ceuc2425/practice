@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "¿Qué es la acción protectora de la Seguridad Social?",
+    "opciones": [
+      "Una pensión de jubilación",
+      "Un conjunto de prestaciones médicas",
+      "El conjunto de prestaciones ante situaciones de necesidad",
+      "Una ayuda económica para autónomos"
+    ],
+    "respuesta_correcta": "El conjunto de prestaciones ante situaciones de necesidad"
+  },
+  {
+    "pregunta": "¿Qué tipo de prestación exige un período mínimo de cotización?",
+    "opciones": [
+      "No contributiva",
+      "Contributiva",
+      "Ayuda familiar",
+      "Subsidio por vivienda"
+    ],
+    "respuesta_correcta": "Contributiva"
+  },
+  {
+    "pregunta": "¿Desde qué día se cobra la prestación por incapacidad temporal por contingencias comunes?",
+    "opciones": [
+      "Desde el primer día",
+      "Desde el día 4 al 20: 60%, desde el 21: 75%",
+      "Desde el día 15 en adelante",
+      "Desde el día 21 en adelante: 100%"
+    ],
+    "respuesta_correcta": "Desde el día 4 al 20: 60%, desde el 21: 75%"
+  },
+  {
+    "pregunta": "¿Qué base se utiliza para calcular la IT por contingencias comunes?",
+    "opciones": [
+      "Base de cotización mensual anterior dividida entre 30/31",
+      "Última nómina",
+      "Salario base",
+      "Promedio anual"
+    ],
+    "respuesta_correcta": "Base de cotización mensual anterior dividida entre 30/31"
+  },
+  {
+    "pregunta": "¿Quién paga la IT por contingencia común a partir del día 16?",
+    "opciones": [
+      "El trabajador",
+      "La mutua",
+      "La empresa",
+      "La entidad gestora"
+    ],
+    "respuesta_correcta": "La entidad gestora"
+  },
+  {
+    "pregunta": "¿Cuál es la duración máxima de una IT por enfermedad o accidente?",
+    "opciones": [
+      "90 días",
+      "180 días",
+      "365 días prorrogables por 180",
+      "2 años"
+    ],
+    "respuesta_correcta": "365 días prorrogables por 180"
+  },
+  {
+    "pregunta": "¿Cuál es el porcentaje del subsidio por riesgo durante el embarazo?",
+    "opciones": [
+      "75%",
+      "60%",
+      "100%",
+      "85%"
+    ],
+    "respuesta_correcta": "100%"
+  },
+  {
+    "pregunta": "¿Qué requisito de cotización se exige para la prestación por nacimiento si el beneficiario tiene entre 21 y 25 años?",
+    "opciones": [
+      "No se exige",
+      "180 días cotizados",
+      "90 días en los últimos 7 años o 180 totales",
+      "360 días en total"
+    ],
+    "respuesta_correcta": "90 días en los últimos 7 años o 180 totales"
+  },
+  {
+    "pregunta": "¿Hasta qué edad se puede recibir prestación por cuidado de menores con cáncer u otra enfermedad grave?",
+    "opciones": [
+      "12 años",
+      "14 años",
+      "16 años",
+      "18 años"
+    ],
+    "respuesta_correcta": "18 años"
+  },
+  {
+    "pregunta": "¿Cuál es el porcentaje de la base reguladora en la prestación por incapacidad permanente absoluta?",
+    "opciones": [
+      "55%",
+      "75%",
+      "100%",
+      "80%"
+    ],
+    "respuesta_correcta": "100%"
+  },
+  {
+    "pregunta": "¿Qué nivel de incapacidad permanente incluye un complemento económico adicional?",
+    "opciones": [
+      "Parcial",
+      "Total",
+      "Absoluta",
+      "Gran invalidez"
+    ],
+    "respuesta_correcta": "Gran invalidez"
+  },
+  {
+    "pregunta": "¿Qué prestación requiere al menos 360 días cotizados en los últimos 6 años?",
+    "opciones": [
+      "Subsidio por desempleo",
+      "Prestación por desempleo contributiva",
+      "Pensión de viudedad",
+      "Incapacidad temporal por enfermedad común"
+    ],
+    "respuesta_correcta": "Prestación por desempleo contributiva"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de la base reguladora se cobra durante los primeros 180 días de desempleo contributivo?",
+    "opciones": [
+      "50%",
+      "60%",
+      "70%",
+      "75%"
+    ],
+    "respuesta_correcta": "70%"
+  },
+  {
+    "pregunta": "¿Qué tipo de subsidio exige responsabilidades familiares y rentas por debajo del 75% del SMI?",
+    "opciones": [
+      "Pensión no contributiva",
+      "Prestación por nacimiento",
+      "Subsidio por desempleo",
+      "Renta mínima"
+    ],
+    "respuesta_correcta": "Subsidio por desempleo"
+  },
+  {
+    "pregunta": "¿Qué tipo de jubilación se permite a los mutualistas desde los 60 años?",
+    "opciones": [
+      "Jubilación ordinaria",
+      "Jubilación forzosa",
+      "Jubilación anticipada",
+      "Jubilación parcial"
+    ],
+    "respuesta_correcta": "Jubilación anticipada"
+  },
+  {
+    "pregunta": "¿Qué porcentaje mínimo se aplica a la pensión con solo 15 años cotizados?",
+    "opciones": [
+      "100%",
+      "75%",
+      "60%",
+      "50%"
+    ],
+    "respuesta_correcta": "50%"
+  },
+  {
+    "pregunta": "¿Cuántos años se usan para calcular la base reguladora de la jubilación desde 2022?",
+    "opciones": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "respuesta_correcta": "25"
+  },
+  {
+    "pregunta": "¿Qué protege el seguro escolar?",
+    "opciones": [
+      "Accidentes laborales",
+      "Estudiantes menores de 28 años ante enfermedad o accidente",
+      "Pensión de jubilación",
+      "Prestaciones por desempleo"
+    ],
+    "respuesta_correcta": "Estudiantes menores de 28 años ante enfermedad o accidente"
+  },
+  {
+    "pregunta": "¿Qué prestación incluye 46,50€ para cubrir gastos de sepelio?",
+    "opciones": [
+      "Viudedad",
+      "Orfandad",
+      "Auxilio por defunción",
+      "Complemento familiar"
+    ],
+    "respuesta_correcta": "Auxilio por defunción"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se cobra en la pensión de viudedad en condiciones generales?",
+    "opciones": [
+      "70%",
+      "60%",
+      "52%",
+      "40%"
+    ],
+    "respuesta_correcta": "52%"
+  },
+  {
+    "pregunta": "¿Qué pensión pueden recibir hijos menores huérfanos sin otra pensión?",
+    "opciones": [
+      "30%",
+      "15%",
+      "25%",
+      "20%"
+    ],
+    "respuesta_correcta": "20%"
+  },
+  {
+    "pregunta": "¿Quién gestiona y paga las prestaciones de maternidad y paternidad?",
+    "opciones": [
+      "Mutuas",
+      "La empresa",
+      "INSS",
+      "SEPE"
+    ],
+    "respuesta_correcta": "INSS"
+  },
+  {
+    "pregunta": "¿Cuál es el máximo de días que cubre la prestación por incapacidad temporal si se prorroga?",
+    "opciones": [
+      "365",
+      "540",
+      "400",
+      "180"
+    ],
+    "respuesta_correcta": "540"
+  },
+  {
+    "pregunta": "¿Quién debe estar trabajando para acceder al subsidio por cuidado de menor con cáncer?",
+    "opciones": [
+      "Solo uno de los progenitores",
+      "Ambos progenitores",
+      "Solo el padre",
+      "Solo la madre"
+    ],
+    "respuesta_correcta": "Ambos progenitores"
+  },
+  {
+    "pregunta": "¿Cuál es el subsidio que se da cuando el cambio de puesto por embarazo no es posible?",
+    "opciones": [
+      "Incapacidad permanente",
+      "Incapacidad temporal",
+      "Riesgo durante el embarazo",
+      "Subsidio por desempleo"
+    ],
+    "respuesta_correcta": "Riesgo durante el embarazo"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se cobra por incapacidad permanente total si el trabajador tiene más de 55 años y no trabaja?",
+    "opciones": [
+      "55%",
+      "75%",
+      "80%",
+      "100%"
+    ],
+    "respuesta_correcta": "75%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se aplica a la prestación por gran invalidez además del 100%?",
+    "opciones": [
+      "15% adicional",
+      "20% adicional",
+      "Complemento variable",
+      "30% de la última base y 45% de la mínima"
+    ],
+    "respuesta_correcta": "30% de la última base y 45% de la mínima"
+  },
+  {
+    "pregunta": "¿Qué requisito es imprescindible para la viudedad por enfermedad común?",
+    "opciones": [
+      "5 años de cotización",
+      "500 días cotizados en los últimos 5 años",
+      "Estar casados 5 años",
+      "Estar trabajando"
+    ],
+    "respuesta_correcta": "500 días cotizados en los últimos 5 años"
+  },
+  {
+    "pregunta": "¿Qué edad permite acogerse al subsidio de mayores si se han cotizado 15 años a jubilación y 6 al paro?",
+    "opciones": [
+      "45 años",
+      "50 años",
+      "52 años",
+      "55 años"
+    ],
+    "respuesta_correcta": "52 años"
+  },
+  {
+    "pregunta": "¿Qué tipo de cotización se exige para prestaciones por enfermedad común en IP parcial?",
+    "opciones": [
+      "1.800 días en los últimos 10 años",
+      "360 días",
+      "No se exige",
+      "500 días en 5 años"
+    ],
+    "respuesta_correcta": "1.800 días en los últimos 10 años"
+  },
+  {
+    "pregunta": "¿Qué duración tiene el subsidio para mayores de 45 años sin cargas familiares tras 6 meses de paro?",
+    "opciones": [
+      "12 meses",
+      "18 meses",
+      "6 meses",
+      "24 meses"
+    ],
+    "respuesta_correcta": "6 meses"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se aplica a la pensión de viudedad con cargas familiares y bajos ingresos?",
+    "opciones": [
+      "60%",
+      "70%",
+      "52%",
+      "100%"
+    ],
+    "respuesta_correcta": "70%"
+  },
+  {
+    "pregunta": "¿Qué prestación se aplica al cese involuntario en cargos públicos o sindicales?",
+    "opciones": [
+      "Subsidio por desempleo",
+      "Pensión asistencial",
+      "Prestación contributiva por desempleo",
+      "Renta activa"
+    ],
+    "respuesta_correcta": "Prestación contributiva por desempleo"
+  },
+  {
+    "pregunta": "¿Cuántos meses se dividen las 300 últimas BCCC para calcular la pensión de jubilación?",
+    "opciones": [
+      "300",
+      "360",
+      "350",
+      "400"
+    ],
+    "respuesta_correcta": "350"
+  },
+  {
+    "pregunta": "¿Qué es el IPREM?",
+    "opciones": [
+      "Un seguro de desempleo",
+      "Un indicador de renta para ayudas",
+      "Una pensión especial",
+      "Un complemento de jubilación"
+    ],
+    "respuesta_correcta": "Un indicador de renta para ayudas"
+  },
+  {
+    "pregunta": "¿Qué prestación puede sustituirse por indemnización en menores de 60 años?",
+    "opciones": [
+      "IP parcial",
+      "IP total",
+      "IP absoluta",
+      "Gran invalidez"
+    ],
+    "respuesta_correcta": "IP total"
+  },
+  {
+    "pregunta": "¿Cuándo se cobra el 60% de la base reguladora en la pensión de viudedad?",
+    "opciones": [
+      "Con cargas familiares",
+      "Con discapacidad",
+      "A partir de 65 años y sin otra pensión",
+      "Cuando se tienen 3 hijos"
+    ],
+    "respuesta_correcta": "A partir de 65 años y sin otra pensión"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se aplica en IP parcial?",
+    "opciones": [
+      "55% de la base",
+      "100% de la base",
+      "24 mensualidades de la BR",
+      "75% más complemento"
+    ],
+    "respuesta_correcta": "24 mensualidades de la BR"
+  },
+  {
+    "pregunta": "¿Qué prestación tiene un complemento por maternidad si hay 2 hijos o más?",
+    "opciones": [
+      "Incapacidad permanente",
+      "Prestación por riesgo",
+      "Pensión de viudedad",
+      "Jubilación parcial"
+    ],
+    "respuesta_correcta": "Pensión de viudedad"
+  },
+  {
+    "pregunta": "¿Qué organismo paga las pensiones de incapacidad permanente?",
+    "opciones": [
+      "SEPE",
+      "INSS",
+      "Mutuas",
+      "La empresa"
+    ],
+    "respuesta_correcta": "INSS"
+  },
+  {
+    "pregunta": "¿Qué duración tiene la prestación por riesgo durante la lactancia natural?",
+    "opciones": [
+      "Hasta que el menor cumpla 6 meses",
+      "Hasta que el menor cumpla 12 meses",
+      "Hasta que el lactante cumple 9 meses",
+      "Durante 3 meses"
+    ],
+    "respuesta_correcta": "Hasta que el lactante cumple 9 meses"
+  },
+  {
+    "pregunta": "¿Cuál es el subsidio mínimo mensual por desempleo según IPREM?",
+    "opciones": [
+      "500 €",
+      "451,92 €",
+      "600 €",
+      "390 €"
+    ],
+    "respuesta_correcta": "451,92 €"
+  },
+  {
+    "pregunta": "¿Qué prestación se otorga si una enfermedad impide continuar trabajando pero no incapacita del todo?",
+    "opciones": [
+      "Gran invalidez",
+      "Incapacidad permanente parcial",
+      "Incapacidad temporal",
+      "Jubilación anticipada"
+    ],
+    "respuesta_correcta": "Incapacidad permanente parcial"
+  },
+  {
+    "pregunta": "¿Qué tipo de pensión se otorga a un viudo con tres hijos menores?",
+    "opciones": [
+      "Pensión mínima",
+      "Orfandad compartida",
+      "Viudedad con complemento",
+      "Viudedad más orfandad"
+    ],
+    "respuesta_correcta": "Viudedad más orfandad"
+  },
+  {
+    "pregunta": "¿Qué duración máxima tiene el subsidio para emigrantes retornados?",
+    "opciones": [
+      "6 meses",
+      "12 meses",
+      "18 meses",
+      "24 meses"
+    ],
+    "respuesta_correcta": "18 meses"
+  },
+  {
+    "pregunta": "¿Qué se entiende por base reguladora?",
+    "opciones": [
+      "El sueldo bruto",
+      "La cantidad base sobre la que se calcula la prestación",
+      "El salario mínimo interprofesional",
+      "La base imponible del IRPF"
+    ],
+    "respuesta_correcta": "La cantidad base sobre la que se calcula la prestación"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se aplica para calcular la prestación por IP total?",
+    "opciones": [
+      "55%",
+      "75%",
+      "60%",
+      "100%"
+    ],
+    "respuesta_correcta": "55%"
+  },
+  {
+    "pregunta": "¿Qué organismo gestiona el subsidio por desempleo?",
+    "opciones": [
+      "INSS",
+      "SEPE",
+      "Tesorería General",
+      "Mutua colaboradora"
+    ],
+    "respuesta_correcta": "SEPE"
+  },
+  {
+    "pregunta": "¿Qué prestación tiene como objetivo compensar una jornada reducida por cuidado de menor con enfermedad grave?",
+    "opciones": [
+      "Prestación por nacimiento",
+      "Prestación por lactancia",
+      "Prestación por cuidado de menores con enfermedad grave",
+      "Subsidio familiar"
+    ],
+    "respuesta_correcta": "Prestación por cuidado de menores con enfermedad grave"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se aplica a la pensión de orfandad por hijo en orfandad absoluta?",
+    "opciones": [
+      "20% individual y 70% total",
+      "El 52% dividido entre huérfanos",
+      "100% de la base reguladora",
+      "25% más complemento por familia"
+    ],
+    "respuesta_correcta": "El 52% dividido entre huérfanos"
+  }
+]

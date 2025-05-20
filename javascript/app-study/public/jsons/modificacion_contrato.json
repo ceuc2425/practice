@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "¿Qué tipo de movilidad implica cambio de centro de trabajo que obliga a residir en otra localidad?",
+    "opciones": [
+      "Movilidad funcional",
+      "Movilidad vertical",
+      "Movilidad geográfica",
+      "Modificación sustancial"
+    ],
+    "respuesta_correcta": "Movilidad geográfica"
+  },
+  {
+    "pregunta": "¿Cuál es una causa para una modificación sustancial de condiciones de trabajo?",
+    "opciones": [
+      "Despido disciplinario",
+      "Cambio de domicilio del trabajador",
+      "Razones técnicas",
+      "Excedencia voluntaria"
+    ],
+    "respuesta_correcta": "Razones técnicas"
+  },
+  {
+    "pregunta": "¿Qué indemnización recibe el trabajador si rescinde el contrato por modificación sustancial no aceptada?",
+    "opciones": [
+      "12 días por año",
+      "20 días por año hasta 9 meses",
+      "33 días por año hasta 12 meses",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "20 días por año hasta 9 meses"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una causa de modificación sustancial del contrato?",
+    "opciones": [
+      "Causa técnica",
+      "Causa emocional",
+      "Causa organizativa",
+      "Causa económica"
+    ],
+    "respuesta_correcta": "Causa emocional"
+  },
+  {
+    "pregunta": "¿Qué tipo de movilidad permite cambiar de funciones dentro del mismo grupo profesional?",
+    "opciones": [
+      "Movilidad vertical",
+      "Modificación sustancial",
+      "Movilidad horizontal",
+      "Movilidad geográfica"
+    ],
+    "respuesta_correcta": "Movilidad horizontal"
+  },
+  {
+    "pregunta": "¿Cuál es el requisito para que una movilidad vertical ascendente conlleve derecho al ascenso?",
+    "opciones": [
+      "Haber realizado tareas superiores durante 3 meses",
+      "Ser titulado universitario",
+      "Haberlas realizado 6 meses en un año o 8 en dos",
+      "Ser delegado sindical"
+    ],
+    "respuesta_correcta": "Haberlas realizado 6 meses en un año o 8 en dos"
+  },
+  {
+    "pregunta": "¿Qué indemnización se recibe por traslado no aceptado que obliga a cambio de residencia?",
+    "opciones": [
+      "12 días por año",
+      "20 días por año hasta 12 mensualidades",
+      "33 días por año hasta 24 mensualidades",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "20 días por año hasta 12 mensualidades"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes situaciones implica suspensión del contrato sin obligación de reserva del puesto?",
+    "opciones": [
+      "Incapacidad temporal",
+      "Maternidad",
+      "Excedencia voluntaria",
+      "Violencia de género"
+    ],
+    "respuesta_correcta": "Excedencia voluntaria"
+  },
+  {
+    "pregunta": "¿Qué derecho tiene el trabajador en una excedencia por cuidado de hijos?",
+    "opciones": [
+      "Reserva del puesto de trabajo por 6 meses",
+      "Reserva por 1 año",
+      "Reserva por 2 años",
+      "No tiene reserva del puesto"
+    ],
+    "respuesta_correcta": "Reserva por 1 año"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes hechos constituye causa de despido disciplinario?",
+    "opciones": [
+      "Cuidado de hijo",
+      "Incapacidad temporal",
+      "Embriaguez habitual que afecta al trabajo",
+      "Cambio de domicilio"
+    ],
+    "respuesta_correcta": "Embriaguez habitual que afecta al trabajo"
+  },
+  {
+    "pregunta": "¿Qué documento recoge todos los pagos pendientes al finalizar una relación laboral?",
+    "opciones": [
+      "Carta de despido",
+      "Contrato",
+      "Nómina",
+      "Finiquito"
+    ],
+    "respuesta_correcta": "Finiquito"
+  },
+  {
+    "pregunta": "¿Qué tipo de despido requiere acreditar una situación económica negativa?",
+    "opciones": [
+      "Disciplinario",
+      "Objetivo",
+      "Nulo",
+      "Improcedente"
+    ],
+    "respuesta_correcta": "Objetivo"
+  },
+  {
+    "pregunta": "¿Qué procedimiento se usa para suspender contratos por causas económicas de forma temporal?",
+    "opciones": [
+      "ERE",
+      "SMAC",
+      "ERTE",
+      "Preaviso"
+    ],
+    "respuesta_correcta": "ERTE"
+  },
+  {
+    "pregunta": "¿Qué indemnización corresponde por despido objetivo?",
+    "opciones": [
+      "20 días por año, máximo 12 mensualidades",
+      "33 días por año, máximo 24 mensualidades",
+      "15 días por año, sin límite",
+      "12 días por año, máximo 9 meses"
+    ],
+    "respuesta_correcta": "20 días por año, máximo 12 mensualidades"
+  },
+  {
+    "pregunta": "¿Qué ocurre si no se respeta el preaviso en un despido objetivo?",
+    "opciones": [
+      "El despido es nulo",
+      "El trabajador debe pagar multa",
+      "Se abona indemnización equivalente al preaviso",
+      "No tiene consecuencias"
+    ],
+    "respuesta_correcta": "Se abona indemnización equivalente al preaviso"
+  },
+  {
+    "pregunta": "¿Qué derecho tiene el trabajador en un despido improcedente?",
+    "opciones": [
+      "Ninguno",
+      "Solo a paro",
+      "A indemnización o readmisión",
+      "A reincorporarse automáticamente"
+    ],
+    "respuesta_correcta": "A indemnización o readmisión"
+  },
+  {
+    "pregunta": "¿Cuándo se considera nulo un despido?",
+    "opciones": [
+      "Cuando no hay causa justificada",
+      "Cuando vulnera derechos fundamentales",
+      "Cuando es por causas económicas",
+      "Cuando es por ineptitud"
+    ],
+    "respuesta_correcta": "Cuando vulnera derechos fundamentales"
+  },
+  {
+    "pregunta": "¿Cuántos días tiene el trabajador para impugnar un despido?",
+    "opciones": [
+      "15 días naturales",
+      "30 días laborables",
+      "20 días hábiles",
+      "10 días hábiles"
+    ],
+    "respuesta_correcta": "20 días hábiles"
+  },
+  {
+    "pregunta": "¿Qué indemnización corresponde en despido por fin de contrato temporal?",
+    "opciones": [
+      "12 días por año",
+      "15 días por año",
+      "20 días por año",
+      "33 días por año"
+    ],
+    "respuesta_correcta": "12 días por año"
+  },
+  {
+    "pregunta": "¿Qué tipo de despido se produce por disminución voluntaria del rendimiento?",
+    "opciones": [
+      "Objetivo",
+      "Nulo",
+      "Disciplinario",
+      "Colectivo"
+    ],
+    "respuesta_correcta": "Disciplinario"
+  },
+  {
+    "pregunta": "¿Qué debe acompañar la carta de despido por causas objetivas?",
+    "opciones": [
+      "Carta de recomendación",
+      "Preaviso firmado por el comité",
+      "Indemnización correspondiente",
+      "Acta de conciliación"
+    ],
+    "respuesta_correcta": "Indemnización correspondiente"
+  },
+  {
+    "pregunta": "¿Qué es una movilidad funcional descendente?",
+    "opciones": [
+      "Cambio a tareas del mismo grupo",
+      "Cambio a tareas superiores",
+      "Cambio a tareas de grupo inferior",
+      "Cambio de localidad"
+    ],
+    "respuesta_correcta": "Cambio a tareas de grupo inferior"
+  },
+  {
+    "pregunta": "¿Qué derecho tiene un trabajador en una movilidad ascendente?",
+    "opciones": [
+      "A rechazarla",
+      "A salario superior",
+      "A mantener su salario",
+      "A no trabajar"
+    ],
+    "respuesta_correcta": "A salario superior"
+  },
+  {
+    "pregunta": "¿Cuál es la duración máxima de un desplazamiento en movilidad geográfica?",
+    "opciones": [
+      "6 meses en 2 años",
+      "12 meses en 3 años",
+      "9 meses en 1 año",
+      "3 meses en 2 años"
+    ],
+    "respuesta_correcta": "12 meses en 3 años"
+  },
+  {
+    "pregunta": "¿Qué indemnización se cobra en despido colectivo como mínimo?",
+    "opciones": [
+      "12 días por año",
+      "20 días por año",
+      "33 días por año",
+      "15 días por año"
+    ],
+    "respuesta_correcta": "20 días por año"
+  },
+  {
+    "pregunta": "¿Qué órgano puede acordar si una indemnización por despido la paga el FOGASA?",
+    "opciones": [
+      "El sindicato",
+      "El SMAC",
+      "La autoridad laboral",
+      "El Juzgado de lo Penal"
+    ],
+    "respuesta_correcta": "La autoridad laboral"
+  },
+  {
+    "pregunta": "¿Qué concepto no forma parte del finiquito?",
+    "opciones": [
+      "Vacaciones no disfrutadas",
+      "Pagas extras",
+      "Horas extra no pagadas",
+      "Antigüedad"
+    ],
+    "respuesta_correcta": "Antigüedad"
+  },
+  {
+    "pregunta": "¿Qué ocurre si la empresa no comunica el fin de contrato temporal con 15 días de antelación?",
+    "opciones": [
+      "El contrato se prorroga",
+      "Debe abonar indemnización por preaviso",
+      "El despido es nulo",
+      "Debe reincorporar al trabajador"
+    ],
+    "respuesta_correcta": "Debe abonar indemnización por preaviso"
+  },
+  {
+    "pregunta": "¿Cuál es la duración mínima de la suspensión por nacimiento de hijo?",
+    "opciones": [
+      "4 semanas",
+      "6 semanas",
+      "8 semanas",
+      "10 semanas"
+    ],
+    "respuesta_correcta": "6 semanas"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un trabajador no acepta una modificación sustancial injustificada?",
+    "opciones": [
+      "Debe continuar trabajando",
+      "Puede dimitir sin indemnización",
+      "Puede extinguir contrato con indemnización",
+      "Debe ser trasladado"
+    ],
+    "respuesta_correcta": "Puede extinguir contrato con indemnización"
+  },
+  {
+    "pregunta": "¿Quién puede impugnar un traslado colectivo?",
+    "opciones": [
+      "Solo el empresario",
+      "Solo el trabajador afectado",
+      "El comité o cualquier trabajador afectado",
+      "Solo los sindicatos"
+    ],
+    "respuesta_correcta": "El comité o cualquier trabajador afectado"
+  },
+  {
+    "pregunta": "¿Qué indemnización corresponde al trabajador en caso de muerte del empresario?",
+    "opciones": [
+      "6 meses de salario",
+      "15 días de salario",
+      "1 mes de salario",
+      "3 meses de salario"
+    ],
+    "respuesta_correcta": "1 mes de salario"
+  },
+  {
+    "pregunta": "¿Qué se requiere para que una modificación sustancial sea colectiva?",
+    "opciones": [
+      "Que afecte a un único trabajador",
+      "Que se pacte con el comité",
+      "Que afecte a un número significativo según plantilla",
+      "Que lo solicite el trabajador"
+    ],
+    "respuesta_correcta": "Que afecte a un número significativo según plantilla"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo puede durar la suspensión del contrato por fuerza mayor?",
+    "opciones": [
+      "Hasta que lo decida la empresa",
+      "Hasta resolución judicial",
+      "Hasta que desaparezcan los efectos",
+      "Máximo 6 meses"
+    ],
+    "respuesta_correcta": "Hasta que desaparezcan los efectos"
+  },
+  {
+    "pregunta": "¿Quién debe comunicar un despido disciplinario?",
+    "opciones": [
+      "El abogado",
+      "El comité",
+      "El empresario por escrito",
+      "El inspector laboral"
+    ],
+    "respuesta_correcta": "El empresario por escrito"
+  },
+  {
+    "pregunta": "¿Qué tipo de contrato no genera indemnización al finalizarse?",
+    "opciones": [
+      "Temporal de obra",
+      "Indefinido",
+      "Formativo o de interinidad",
+      "Eventual por circunstancias"
+    ],
+    "respuesta_correcta": "Formativo o de interinidad"
+  },
+  {
+    "pregunta": "¿Qué es el grupo profesional?",
+    "opciones": [
+      "La categoría del contrato",
+      "La agrupación de categorías",
+      "El tipo de jornada",
+      "El nivel de convenio"
+    ],
+    "respuesta_correcta": "La agrupación de categorías"
+  },
+  {
+    "pregunta": "¿Cuál es el plazo de resolución de la Autoridad Laboral en despidos por fuerza mayor?",
+    "opciones": [
+      "10 días",
+      "5 días",
+      "15 días",
+      "20 días"
+    ],
+    "respuesta_correcta": "5 días"
+  },
+  {
+    "pregunta": "¿Qué función tiene el FOGASA?",
+    "opciones": [
+      "Regular convenios",
+      "Asesorar a empresas",
+      "Pagar salarios e indemnizaciones por insolvencia",
+      "Contratar personal en crisis"
+    ],
+    "respuesta_correcta": "Pagar salarios e indemnizaciones por insolvencia"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una causa de suspensión del contrato?",
+    "opciones": [
+      "Incapacidad temporal",
+      "Excedencia por cuidado de hijos",
+      "Jubilación del trabajador",
+      "Nacimiento de hijo"
+    ],
+    "respuesta_correcta": "Jubilación del trabajador"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un trabajador solicita la extinción de contrato por modificación sustancial de condiciones?",
+    "opciones": [
+      "Debe indemnizar a la empresa",
+      "No tiene derecho a nada",
+      "Puede recibir 20 días por año hasta 9 mensualidades",
+      "Cobra subsidio completo"
+    ],
+    "respuesta_correcta": "Puede recibir 20 días por año hasta 9 mensualidades"
+  },
+  {
+    "pregunta": "¿Qué tipo de movilidad se refiere al cambio de localidad con cambio de residencia?",
+    "opciones": [
+      "Funcional",
+      "Vertical",
+      "Geográfica",
+      "Temporal"
+    ],
+    "respuesta_correcta": "Geográfica"
+  },
+  {
+    "pregunta": "¿Qué tipo de despido ocurre por causas económicas o técnicas?",
+    "opciones": [
+      "Improcedente",
+      "Disciplinario",
+      "Objetivo",
+      "Nulo"
+    ],
+    "respuesta_correcta": "Objetivo"
+  },
+  {
+    "pregunta": "¿Qué documento debe entregarse siempre en caso de extinción del contrato?",
+    "opciones": [
+      "Carta de recomendación",
+      "Informe médico",
+      "Finiquito",
+      "Parte de baja"
+    ],
+    "respuesta_correcta": "Finiquito"
+  },
+  {
+    "pregunta": "¿Cuál es el preaviso obligatorio en un despido objetivo?",
+    "opciones": [
+      "5 días",
+      "7 días",
+      "15 días",
+      "30 días"
+    ],
+    "respuesta_correcta": "15 días"
+  },
+  {
+    "pregunta": "¿Qué ocurre si no se entrega el preaviso en un despido objetivo?",
+    "opciones": [
+      "El despido es nulo",
+      "Se entrega el preaviso en SMAC",
+      "Se compensa económicamente",
+      "El trabajador debe devolver días"
+    ],
+    "respuesta_correcta": "Se compensa económicamente"
+  },
+  {
+    "pregunta": "¿Qué tipo de despido requiere audiencia previa al comité de empresa si el trabajador es representante legal?",
+    "opciones": [
+      "Improcedente",
+      "Objetivo",
+      "Disciplinario",
+      "Nulo"
+    ],
+    "respuesta_correcta": "Disciplinario"
+  },
+  {
+    "pregunta": "¿Qué indemnización corresponde a un contrato temporal finalizado correctamente?",
+    "opciones": [
+      "15 días por año",
+      "12 días por año trabajado",
+      "33 días por año",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "12 días por año trabajado"
+  },
+  {
+    "pregunta": "¿Qué tipo de despido da derecho a elegir entre readmisión o indemnización?",
+    "opciones": [
+      "Objetivo",
+      "Improcedente",
+      "Disciplinario",
+      "Nulo"
+    ],
+    "respuesta_correcta": "Improcedente"
+  },
+  {
+    "pregunta": "¿Qué tipo de excedencia tiene reserva del puesto durante el primer año?",
+    "opciones": [
+      "Excedencia voluntaria",
+      "Excedencia forzosa",
+      "Excedencia por cuidado de hijos",
+      "Excedencia por estudios"
+    ],
+    "respuesta_correcta": "Excedencia por cuidado de hijos"
+  }
+]

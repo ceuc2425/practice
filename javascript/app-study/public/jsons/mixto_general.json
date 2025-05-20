@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "¿Qué tipo de prestación exige haber cotizado previamente durante un período mínimo?",
+    "opciones": [
+      "No contributiva",
+      "Contributiva",
+      "Asistencial",
+      "Universal"
+    ],
+    "respuesta_correcta": "Contributiva"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un trabajador no acepta una modificación sustancial de sus condiciones de trabajo?",
+    "opciones": [
+      "Es sancionado",
+      "Debe cambiar de puesto",
+      "Puede rescindir el contrato con indemnización",
+      "Se considera abandono"
+    ],
+    "respuesta_correcta": "Puede rescindir el contrato con indemnización"
+  },
+  {
+    "pregunta": "¿Qué subsidio cubre la reducción de jornada para cuidar a un menor con cáncer o enfermedad grave?",
+    "opciones": [
+      "Subsidio por maternidad",
+      "Subsidio asistencial",
+      "Prestación por cuidado de menor",
+      "Baja médica común"
+    ],
+    "respuesta_correcta": "Prestación por cuidado de menor"
+  },
+  {
+    "pregunta": "¿Qué tipo de movilidad implica cambio de localidad que obliga a residencia en otra?",
+    "opciones": [
+      "Funcional",
+      "Vertical",
+      "Geográfica",
+      "Horizontal"
+    ],
+    "respuesta_correcta": "Geográfica"
+  },
+  {
+    "pregunta": "¿Cuál es la duración máxima de la incapacidad temporal?",
+    "opciones": [
+      "365 días prorrogables por 180",
+      "6 meses",
+      "2 años",
+      "540 días improrrogables"
+    ],
+    "respuesta_correcta": "365 días prorrogables por 180"
+  },
+  {
+    "pregunta": "¿Qué indemnización corresponde a un trabajador que se opone a un traslado obligatorio y se extingue su contrato?",
+    "opciones": [
+      "20 días por año hasta 12 mensualidades",
+      "15 días por año",
+      "33 días por año",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "20 días por año hasta 12 mensualidades"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se cobra en la pensión de viudedad en condiciones generales?",
+    "opciones": [
+      "60%",
+      "52%",
+      "70%",
+      "45%"
+    ],
+    "respuesta_correcta": "52%"
+  },
+  {
+    "pregunta": "¿Qué documento debe entregar siempre la empresa al finalizar la relación laboral?",
+    "opciones": [
+      "Certificado de empresa",
+      "Finiquito",
+      "Carta de recomendación",
+      "Justificante bancario"
+    ],
+    "respuesta_correcta": "Finiquito"
+  },
+  {
+    "pregunta": "¿Qué tipo de subsidio se concede cuando el puesto de trabajo pone en riesgo al feto durante el embarazo?",
+    "opciones": [
+      "Maternidad",
+      "Incapacidad temporal",
+      "Riesgo durante el embarazo",
+      "Licencia sin sueldo"
+    ],
+    "respuesta_correcta": "Riesgo durante el embarazo"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un despido vulnera derechos fundamentales?",
+    "opciones": [
+      "Es procedente",
+      "Es objetivo",
+      "Es nulo",
+      "No tiene efecto"
+    ],
+    "respuesta_correcta": "Es nulo"
+  },
+  {
+    "pregunta": "¿Qué prestación requiere al menos 360 días cotizados en los 6 años anteriores?",
+    "opciones": [
+      "Subsidio por desempleo",
+      "Prestación contributiva por desempleo",
+      "Ayuda familiar",
+      "Pensión no contributiva"
+    ],
+    "respuesta_correcta": "Prestación contributiva por desempleo"
+  },
+  {
+    "pregunta": "¿Qué despido se produce por bajo rendimiento o faltas graves del trabajador?",
+    "opciones": [
+      "Objetivo",
+      "Improcedente",
+      "Disciplinario",
+      "Nulo"
+    ],
+    "respuesta_correcta": "Disciplinario"
+  },
+  {
+    "pregunta": "¿Qué se aplica para calcular la cuantía de cualquier prestación?",
+    "opciones": [
+      "Salario base",
+      "Base reguladora",
+      "Antigüedad",
+      "Nómina mensual"
+    ],
+    "respuesta_correcta": "Base reguladora"
+  },
+  {
+    "pregunta": "¿Qué derecho tiene un trabajador en excedencia por cuidado de hijos?",
+    "opciones": [
+      "Salario base garantizado",
+      "Reserva del puesto durante un año",
+      "Ninguno",
+      "Permiso sin sueldo"
+    ],
+    "respuesta_correcta": "Reserva del puesto durante un año"
+  },
+  {
+    "pregunta": "¿Qué tipo de pensión se concede a una persona con una incapacidad que impide cualquier tipo de trabajo?",
+    "opciones": [
+      "IP parcial",
+      "IP total",
+      "IP absoluta",
+      "Jubilación parcial"
+    ],
+    "respuesta_correcta": "IP absoluta"
+  },
+  {
+    "pregunta": "¿Qué ocurre si no se entrega el preaviso en un despido objetivo?",
+    "opciones": [
+      "El despido es nulo",
+      "Debe readmitirse al trabajador",
+      "Debe abonarse su importe",
+      "No tiene consecuencias"
+    ],
+    "respuesta_correcta": "Debe abonarse su importe"
+  },
+  {
+    "pregunta": "¿Qué prestación cubre el descanso por nacimiento y cuidado de menor?",
+    "opciones": [
+      "Prestación por paternidad",
+      "Renta mínima",
+      "Prestación por nacimiento",
+      "Baja laboral común"
+    ],
+    "respuesta_correcta": "Prestación por nacimiento"
+  },
+  {
+    "pregunta": "¿Qué tipo de despido da derecho a elegir entre indemnización o readmisión?",
+    "opciones": [
+      "Objetivo",
+      "Improcedente",
+      "Disciplinario",
+      "Voluntario"
+    ],
+    "respuesta_correcta": "Improcedente"
+  },
+  {
+    "pregunta": "¿Qué tipo de prestación no exige cotización previa?",
+    "opciones": [
+      "Contributiva",
+      "No contributiva",
+      "Subsidio por desempleo",
+      "Viudedad"
+    ],
+    "respuesta_correcta": "No contributiva"
+  },
+  {
+    "pregunta": "¿Cuál es la indemnización por despido objetivo procedente?",
+    "opciones": [
+      "20 días por año hasta 12 mensualidades",
+      "33 días por año sin límite",
+      "45 días por año hasta 42 mensualidades",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "20 días por año hasta 12 mensualidades"
+  },
+  {
+    "pregunta": "¿Qué organismo gestiona las prestaciones por incapacidad permanente?",
+    "opciones": [
+      "SEPE",
+      "INSS",
+      "Mutuas privadas",
+      "Ayuntamiento"
+    ],
+    "respuesta_correcta": "INSS"
+  },
+  {
+    "pregunta": "¿Qué modalidad de movilidad implica cambio de funciones dentro del mismo grupo profesional?",
+    "opciones": [
+      "Vertical",
+      "Horizontal",
+      "Geográfica",
+      "Total"
+    ],
+    "respuesta_correcta": "Horizontal"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se cobra los primeros 180 días de desempleo contributivo?",
+    "opciones": [
+      "60%",
+      "50%",
+      "70%",
+      "100%"
+    ],
+    "respuesta_correcta": "70%"
+  },
+  {
+    "pregunta": "¿Cuántos días tiene el trabajador para impugnar judicialmente un despido?",
+    "opciones": [
+      "10 días hábiles",
+      "15 días naturales",
+      "20 días hábiles",
+      "30 días hábiles"
+    ],
+    "respuesta_correcta": "20 días hábiles"
+  },
+  {
+    "pregunta": "¿Qué pensión se reconoce por fallecimiento del cónyuge con hijos menores en común?",
+    "opciones": [
+      "Jubilación anticipada",
+      "IP total",
+      "Viudedad y orfandad",
+      "Pensión parcial"
+    ],
+    "respuesta_correcta": "Viudedad y orfandad"
+  },
+  {
+    "pregunta": "¿Cuál es el porcentaje de pensión por incapacidad permanente total?",
+    "opciones": [
+      "100%",
+      "75%",
+      "60%",
+      "55%"
+    ],
+    "respuesta_correcta": "55%"
+  },
+  {
+    "pregunta": "¿Qué causa NO justifica una modificación sustancial de condiciones de trabajo?",
+    "opciones": [
+      "Razones técnicas",
+      "Causas organizativas",
+      "Causas económicas",
+      "Cambio de residencia del trabajador"
+    ],
+    "respuesta_correcta": "Cambio de residencia del trabajador"
+  },
+  {
+    "pregunta": "¿Qué requisito de cotización se exige para IP parcial por enfermedad común?",
+    "opciones": [
+      "360 días",
+      "500 días",
+      "1800 días en los 10 años anteriores",
+      "No se exige"
+    ],
+    "respuesta_correcta": "1800 días en los 10 años anteriores"
+  },
+  {
+    "pregunta": "¿Qué tipo de excedencia implica la reserva del mismo puesto solo el primer año?",
+    "opciones": [
+      "Voluntaria",
+      "Forzosa",
+      "Por estudios",
+      "Por cuidado de hijos"
+    ],
+    "respuesta_correcta": "Por cuidado de hijos"
+  },
+  {
+    "pregunta": "¿Qué prestación cubre al estudiante en caso de accidente durante sus estudios?",
+    "opciones": [
+      "Pensión educativa",
+      "Seguro escolar",
+      "Incapacidad temporal",
+      "Subsidio de formación"
+    ],
+    "respuesta_correcta": "Seguro escolar"
+  },
+  {
+    "pregunta": "¿Qué despido se produce cuando el trabajador incumple gravemente su contrato?",
+    "opciones": [
+      "Nulo",
+      "Objetivo",
+      "Improcedente",
+      "Disciplinario"
+    ],
+    "respuesta_correcta": "Disciplinario"
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo máximo para la prestación de nacimiento y cuidado del menor?",
+    "opciones": [
+      "10 semanas",
+      "14 semanas",
+      "16 semanas",
+      "18 semanas"
+    ],
+    "respuesta_correcta": "16 semanas"
+  },
+  {
+    "pregunta": "¿Qué tipo de contrato NO tiene derecho a indemnización al finalizar?",
+    "opciones": [
+      "Temporal eventual",
+      "Indefinido",
+      "Formativo o de interinidad",
+      "Por obra y servicio"
+    ],
+    "respuesta_correcta": "Formativo o de interinidad"
+  },
+  {
+    "pregunta": "¿Qué base se usa para calcular la jubilación desde 2022?",
+    "opciones": [
+      "∑BCCC 180 meses / 200",
+      "∑BCCC 300 meses / 350",
+      "∑BCCC 360 meses / 400",
+      "∑BCCC 96 meses / 112"
+    ],
+    "respuesta_correcta": "∑BCCC 300 meses / 350"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se cobra por orfandad en caso de fallecimiento de ambos padres?",
+    "opciones": [
+      "20%",
+      "30%",
+      "52% repartido entre los hijos",
+      "70% del IPREM"
+    ],
+    "respuesta_correcta": "52% repartido entre los hijos"
+  },
+  {
+    "pregunta": "¿Cuál es la indemnización por finalización de contrato temporal correctamente ejecutado?",
+    "opciones": [
+      "15 días por año",
+      "12 días por año trabajado",
+      "33 días por año",
+      "Sin indemnización"
+    ],
+    "respuesta_correcta": "12 días por año trabajado"
+  },
+  {
+    "pregunta": "¿Qué organismo paga el subsidio por desempleo?",
+    "opciones": [
+      "INSS",
+      "Mutua",
+      "SEPE",
+      "Tesorería General"
+    ],
+    "respuesta_correcta": "SEPE"
+  },
+  {
+    "pregunta": "¿Qué indemnización corresponde en un despido improcedente no readmitido?",
+    "opciones": [
+      "20 días por año",
+      "12 días por año",
+      "33 días por año hasta 24 mensualidades",
+      "45 días por año"
+    ],
+    "respuesta_correcta": "33 días por año hasta 24 mensualidades"
+  },
+  {
+    "pregunta": "¿Qué situación NO suspende el contrato de trabajo?",
+    "opciones": [
+      "Incapacidad temporal",
+      "Maternidad",
+      "Excedencia voluntaria",
+      "Renuncia del trabajador"
+    ],
+    "respuesta_correcta": "Renuncia del trabajador"
+  },
+  {
+    "pregunta": "¿Qué prestación se recibe si el desempleado ha cotizado entre 3 y 5 meses y tiene cargas familiares?",
+    "opciones": [
+      "Prestación contributiva",
+      "Subsidio por desempleo proporcional",
+      "Jubilación anticipada",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "Subsidio por desempleo proporcional"
+  },
+  {
+    "pregunta": "¿Qué porcentaje se aplica a la base reguladora durante la IT por contingencias comunes del día 21 en adelante?",
+    "opciones": [
+      "60%",
+      "75%",
+      "50%",
+      "100%"
+    ],
+    "respuesta_correcta": "75%"
+  },
+  {
+    "pregunta": "¿Cuál es la prestación que se concede al cónyuge superviviente si no había matrimonio legal?",
+    "opciones": [
+      "Subsidio por desempleo",
+      "Viudedad si hay pareja de hecho legalmente registrada",
+      "Orfandad",
+      "Auxilio por sepelio"
+    ],
+    "respuesta_correcta": "Viudedad si hay pareja de hecho legalmente registrada"
+  },
+  {
+    "pregunta": "¿Cuál es la causa más frecuente del despido objetivo?",
+    "opciones": [
+      "Falta grave",
+      "Ineptitud del trabajador",
+      "Crisis económica",
+      "Jubilación del empresario"
+    ],
+    "respuesta_correcta": "Crisis económica"
+  },
+  {
+    "pregunta": "¿Qué ocurre si una modificación sustancial afecta a un número importante de trabajadores?",
+    "opciones": [
+      "Se considera despido colectivo",
+      "Se negocia con la representación legal",
+      "Debe autorizarlo la Seguridad Social",
+      "Se aplica sin trámite"
+    ],
+    "respuesta_correcta": "Se negocia con la representación legal"
+  },
+  {
+    "pregunta": "¿Qué porcentaje adicional se suma a la pensión por gran invalidez?",
+    "opciones": [
+      "30% base mínima + 45% última base",
+      "15%",
+      "75%",
+      "Ninguno"
+    ],
+    "respuesta_correcta": "30% base mínima + 45% última base"
+  },
+  {
+    "pregunta": "¿Cuál es el periodo mínimo de cotización general para tener derecho a jubilación?",
+    "opciones": [
+      "10 años",
+      "15 años",
+      "20 años",
+      "5 años"
+    ],
+    "respuesta_correcta": "15 años"
+  },
+  {
+    "pregunta": "¿Qué tipo de prestación NO depende de cotizaciones previas?",
+    "opciones": [
+      "Jubilación contributiva",
+      "Prestación contributiva por desempleo",
+      "No contributiva",
+      "Prestación por nacimiento"
+    ],
+    "respuesta_correcta": "No contributiva"
+  },
+  {
+    "pregunta": "¿Qué se considera movilidad funcional ascendente?",
+    "opciones": [
+      "Cambio de funciones inferiores",
+      "Cambio a funciones superiores",
+      "Cambio de centro de trabajo",
+      "Cambio a media jornada"
+    ],
+    "respuesta_correcta": "Cambio a funciones superiores"
+  },
+  {
+    "pregunta": "¿Qué ocurre si el trabajador no acepta la movilidad geográfica impuesta?",
+    "opciones": [
+      "No tiene derecho a nada",
+      "Puede extinguir el contrato con indemnización",
+      "Debe denunciar a la mutua",
+      "El despido es inmediato"
+    ],
+    "respuesta_correcta": "Puede extinguir el contrato con indemnización"
+  },
+  {
+    "pregunta": "¿Qué modalidad de despido requiere la intervención de la autoridad laboral?",
+    "opciones": [
+      "Improcedente",
+      "Disciplinario",
+      "Objetivo individual",
+      "Despido colectivo"
+    ],
+    "respuesta_correcta": "Despido colectivo"
+  }
+]
