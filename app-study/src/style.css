@@ -32,7 +32,8 @@ select {
   color: #000;
 }
 
-#temporizador {
+#temporizador,
+#progreso {
   font-size: 1.2rem;
   font-weight: bold;
   color: #ffa500;
@@ -51,7 +52,7 @@ select {
   border: 1px solid #ccc;
   border-radius: 8px;
   background-color: #2a2a2a;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s;
 }
 
@@ -86,10 +87,12 @@ select {
   color: #ffd700;
 }
 
-#navigation, #validate-btn {
+#navigation,
+#validate-btn {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 
 #results {
@@ -105,21 +108,50 @@ button {
   padding: 0.6em 1.2em;
   font-size: 1rem;
   font-weight: 500;
-  background-color: #3a3a3a;
   color: white;
   cursor: pointer;
   transition: background-color 0.2s, border-color 0.2s;
 }
 
+/* Colores personalizados */
+#prev-btn,
+#next-btn {
+  background-color: #007bff; /* azul */
+}
+
+#validate-all,
+#validate-btn button:first-child {
+  background-color: #28a745; /* verde */
+}
+
+#validate-btn button:last-child {
+  background-color: #6c757d; /* gris oscuro */
+}
+
+.btn-validar-individual {
+  margin-top: 0.5rem;
+  background-color: #198754;
+  border: none;
+  padding: 0.4em 1em;
+  font-size: 0.9rem;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-validar-individual:hover {
+  background-color: #157347;
+}
+
 button:hover {
-  background-color: #555;
-  border-color: #888;
+  opacity: 0.9;
 }
 
 button:focus {
   outline: 2px solid #646cff;
 }
 
+/* Tema claro */
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
@@ -150,16 +182,8 @@ button:focus {
     color: #000;
   }
 
-  button {
-    background-color: #e0e0e0;
-    color: #000;
-  }
-
-  button:hover {
-    background-color: #ccc;
-  }
-
-  #temporizador {
+  #temporizador,
+  #progreso {
     color: #d35400;
   }
 }

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tu puedes</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body id="body">
+    <h2 id="mensaje-mov">
+      Selecciona un tema de estudio y comienza a apracticar tus tests
+    </h2>
+    <div id="temporizador"></div>
+
+    <div id="quiz-container"></div>
+
+    <div
+      id="progreso"
+      style="text-align: center; font-weight: bold; margin-top: 1rem"
+    ></div>
+
+    <div id="navigation">
+      <button id="prev-btn">Anterior</button>
+      <button id="next-btn">Siguiente</button>
+    </div>
+
+    <div id="validate-btn">
+      <button id="validate-all" style="display: none">Validar todo</button>
+      <!-- Los botones de Finalizar y Reiniciar se inyectan vía JS -->
+    </div>
+    <h2 id="motivacion">
+     
+    </h2>
+    <div id="results" style="margin-top: 2rem"></div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
